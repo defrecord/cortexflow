@@ -1,0 +1,18 @@
+[submodule ".duplicate/agent-towers"]
+	path = .duplicate/agent-towers
+	url = https://github.com/defrecord/agent-towers.git
+[submodule ".duplicate/remembrance-agent"]
+	path = .duplicate/remembrance-agent
+	url = https://github.com/defrecord/remembrance-agent.git
+[submodule ".duplicate/CortexIntelligence"]
+	path = .duplicate/CortexIntelligence
+	url = https://github.com/jwalsh/CortexIntelligence.git
+[submodule ".duplicate/aygp-dr-mindflow"]
+	path = .duplicate/aygp-dr-mindflow
+	url = https://github.com/aygp-dr/mindflow.git
+[submodule ".duplicate/mindflow-shell"]
+	path = .duplicate/mindflow-shell
+	url = https://github.com/aygp-dr/mindflow-shell.git
+[submodule ".duplicate/defrecord-mindflow"]
+	path = .duplicate/defrecord-mindflow
+	url = https://github.com/defrecord/mindflow.git
